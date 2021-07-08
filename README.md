@@ -9,7 +9,6 @@ By using a version control system. You can get
 - When were the changes made?
 - Why were changes needed?
 
-## How to use git
 ## Git workflow
 
 1. Create a new branch. For example, to add new feature or modify sth.
@@ -18,4 +17,34 @@ By using a version control system. You can get
 4. Merge.
 5. Deploy.
 
-## Demo
+## Git command
+
+The most common command.
+
+Create a new branch and switch to it.
+
+```
+git checkout -b new-branch-name
+```
+
+Start a new git repository.
+
+```
+git init
+```
+
+Switch to a branch.
+
+```
+git chekcout branch-name
+```
+
+Show the commits.
+
+```
+git log
+```
+
+## .gitignore file
+
+Useful `.gitignore` templates by Github. https://github.com/github/gitignore 
