@@ -48,3 +48,9 @@ git log
 ## .gitignore file
 
 Useful `.gitignore` templates by Github. https://github.com/github/gitignore 
+
+## Use github with token
+
+https://medium.com/geekculture/how-to-change-your-github-remote-authentication-from-username-password-to-personal-access-token-64e527a766cf
+
+
